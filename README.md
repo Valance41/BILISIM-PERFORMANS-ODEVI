@@ -1,2 +1,1 @@
-# Bili-im-Performans-devi
-Timur Tozar ve Hasan Doruk Danyıldız'ın Ortak Projesi
+TİMUR TOZAR 726 - HASAN DORUK DANYILDIZ 834
