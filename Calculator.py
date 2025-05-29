@@ -68,7 +68,7 @@ def konami_sonucu():
     global resim_label
     pencere.geometry("1000x800")  
     
-    resim = Image.open("photo.png") 
+    resim = Image.open("photo.jpg") 
     resim = resim.resize((890, 500))  
     resim = ImageTk.PhotoImage(resim)
 
